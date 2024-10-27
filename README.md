@@ -23,6 +23,8 @@ The robot is based on a wedge-shaped chassis and a bi-directional vertical spinn
 | ---- | ---- | ---- | ----     | ---                               |
 |10.0 | 8.57 | 20 | 38.57 | 1 |
 
+![results](media/results.png)
+
 As you might see, it went quite well, but not without struggles. Thanks to all the participants for making it an interesting fight!
 
 ## That's all, folks!
