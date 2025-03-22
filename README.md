@@ -6,6 +6,8 @@ This repository contains the project files for the NRK Newton Robowars ("Robotkr
 
 Link to NRK Newton episode: https://tv.nrk.no/serie/newton/sesong/2025/episode/DMPP21500625
 
+![knockout](knockout.gif)
+
 ## Background
 
 Early fall 2024 we were contacted regarding the possibility of a kid's science show, NRK Newton, participating Robowars ("Robotkrig") at our local hackerspace, [Omega Verksted](https://omegav.no). We quickly gathered a crack team of friends all studying Cybernetics and Robotics at NTNU to design and manufacture a robot that could crush the competition at a budget of 6000-7000 NOK in about two months. 
